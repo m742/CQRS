@@ -1,0 +1,13 @@
+C:\Projetos\ToDo\ToDo.Domain.Infra\ClassLibrary\ClassLibrary\bin\Debug\netcoreapp3.0\Infra.deps.json
+C:\Projetos\ToDo\ToDo.Domain.Infra\ClassLibrary\ClassLibrary\bin\Debug\netcoreapp3.0\Infra.runtimeconfig.json
+C:\Projetos\ToDo\ToDo.Domain.Infra\ClassLibrary\ClassLibrary\bin\Debug\netcoreapp3.0\Infra.runtimeconfig.dev.json
+C:\Projetos\ToDo\ToDo.Domain.Infra\ClassLibrary\ClassLibrary\bin\Debug\netcoreapp3.0\Infra.dll
+C:\Projetos\ToDo\ToDo.Domain.Infra\ClassLibrary\ClassLibrary\bin\Debug\netcoreapp3.0\Infra.pdb
+C:\Projetos\ToDo\ToDo.Domain.Infra\ClassLibrary\ClassLibrary\bin\Debug\netcoreapp3.0\ClassLibrary.dll
+C:\Projetos\ToDo\ToDo.Domain.Infra\ClassLibrary\ClassLibrary\bin\Debug\netcoreapp3.0\ClassLibrary.pdb
+C:\Projetos\ToDo\ToDo.Domain.Infra\ClassLibrary\ClassLibrary\obj\Debug\netcoreapp3.0\Infra.csprojAssemblyReference.cache
+C:\Projetos\ToDo\ToDo.Domain.Infra\ClassLibrary\ClassLibrary\obj\Debug\netcoreapp3.0\Infra.AssemblyInfoInputs.cache
+C:\Projetos\ToDo\ToDo.Domain.Infra\ClassLibrary\ClassLibrary\obj\Debug\netcoreapp3.0\Infra.AssemblyInfo.cs
+C:\Projetos\ToDo\ToDo.Domain.Infra\ClassLibrary\ClassLibrary\obj\Debug\netcoreapp3.0\Infra.csproj.CopyComplete
+C:\Projetos\ToDo\ToDo.Domain.Infra\ClassLibrary\ClassLibrary\obj\Debug\netcoreapp3.0\Infra.dll
+C:\Projetos\ToDo\ToDo.Domain.Infra\ClassLibrary\ClassLibrary\obj\Debug\netcoreapp3.0\Infra.pdb

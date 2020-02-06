@@ -1,0 +1,9 @@
+C:\Projetos\ToDo\ToDo.Domain\ClassLibrary\ClassLibrary\bin\Debug\netcoreapp3.1\ClassLibrary.deps.json
+C:\Projetos\ToDo\ToDo.Domain\ClassLibrary\ClassLibrary\bin\Debug\netcoreapp3.1\ClassLibrary.runtimeconfig.json
+C:\Projetos\ToDo\ToDo.Domain\ClassLibrary\ClassLibrary\bin\Debug\netcoreapp3.1\ClassLibrary.runtimeconfig.dev.json
+C:\Projetos\ToDo\ToDo.Domain\ClassLibrary\ClassLibrary\bin\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Projetos\ToDo\ToDo.Domain\ClassLibrary\ClassLibrary\bin\Debug\netcoreapp3.1\ClassLibrary.pdb
+C:\Projetos\ToDo\ToDo.Domain\ClassLibrary\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.AssemblyInfoInputs.cache
+C:\Projetos\ToDo\ToDo.Domain\ClassLibrary\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.AssemblyInfo.cs
+C:\Projetos\ToDo\ToDo.Domain\ClassLibrary\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Projetos\ToDo\ToDo.Domain\ClassLibrary\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.pdb

@@ -1,0 +1,8 @@
+C:\Projetos\ToDo\ToDo.Domain\ClassLibrary\ClassLibrary\bin\Debug\netcoreapp3.0\ClassLibrary.deps.json
+C:\Projetos\ToDo\ToDo.Domain\ClassLibrary\ClassLibrary\bin\Debug\netcoreapp3.0\ClassLibrary.dll
+C:\Projetos\ToDo\ToDo.Domain\ClassLibrary\ClassLibrary\bin\Debug\netcoreapp3.0\ClassLibrary.pdb
+C:\Projetos\ToDo\ToDo.Domain\ClassLibrary\ClassLibrary\obj\Debug\netcoreapp3.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Projetos\ToDo\ToDo.Domain\ClassLibrary\ClassLibrary\obj\Debug\netcoreapp3.0\ClassLibrary.AssemblyInfo.cs
+C:\Projetos\ToDo\ToDo.Domain\ClassLibrary\ClassLibrary\obj\Debug\netcoreapp3.0\ClassLibrary.dll
+C:\Projetos\ToDo\ToDo.Domain\ClassLibrary\ClassLibrary\obj\Debug\netcoreapp3.0\ClassLibrary.pdb
+C:\Projetos\ToDo\ToDo.Domain\ClassLibrary\ClassLibrary\obj\Debug\netcoreapp3.0\ClassLibrary.csprojAssemblyReference.cache
